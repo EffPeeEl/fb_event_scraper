@@ -17,7 +17,7 @@ def run_scraping():
     try:
         for key, url in all_nation_url.items(): 
             driver.get(url)
-            time.sleep(10)
+            time.sleep(5)
 
 
             print("Page Title:", driver.title)

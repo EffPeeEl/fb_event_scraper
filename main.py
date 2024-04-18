@@ -10,12 +10,12 @@ def main():
     args = parse_arguments()
   
     if args.scrape:
-        from scraper import process_html
-        process_html()
+        from scraper import run_scraping
+        run_scraping()
         
     if args.process:
-        from processer import run_scraping
-        run_scraping()
+        from processer import process_html
+        process_html()
 
 if __name__ == '__main__':
     main()
