@@ -1,4 +1,10 @@
 import argparse
+from dotenv import load_dotenv 
+import os
+
+import ast
+
+
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Run parts of the multipurpose application.")
@@ -8,7 +14,7 @@ def parse_arguments():
 
 def main():
     args = parse_arguments()
-  
+
     if args.scrape:
         from scraper import run_scraping
         run_scraping()
