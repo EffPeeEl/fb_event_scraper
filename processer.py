@@ -38,8 +38,8 @@ def process_html():
                 "nation" : file_loc.split("_")[0],
                 "url": title_link['href'],
                 "image_url": image_tag['src'],
-                "time": time_span.text.strip(),
-                "location": location_info.text.strip()
+                "time": parse_datetime(time_span.text.strip()),
+                "location": location_info.text.strip().split("UppsalaEvent")[0]
             }
             events.append(event_info)
     
@@ -51,3 +51,28 @@ def process_html():
     
     
     print(f"Events extracted and saved to '{save_file}'")
+
+
+from dateutil import parser
+from datetime import datetime
+
+def parse_datetime(time_str):
+
+
+    # Assuming the year as the current year
+    current_year = datetime.now().year
+    
+    # Insert the current year into the time string
+    full_datetime_str = f"{time_str[:-5]} {current_year} {time_str[-5:]}"
+    
+    try:
+        parsed_datetime = parser.parse(full_datetime_str)
+    except ValueError as e:
+        parsed_datetime = datetime(1900, 1, 1, 0, 0)
+    
+    return parsed_datetime.isoformat()
+
+# Example usage
+time_string = "THU, APR 25 AT 8:00 PM CEST"
+parsed_time = parse_datetime(time_string)
+print(parsed_time)
