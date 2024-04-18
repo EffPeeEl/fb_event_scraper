@@ -1,10 +1,10 @@
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
-
+import time
 driver = webdriver.Chrome(ChromeDriverManager().install())
 all_nation_url = {
 "snerikes" : "https://www.facebook.com/snerikes/events",
-"stockholm" : "https://www.facebook.com/stockholmsnation"
+"stockholm" : "https://www.facebook.com/stockholmsnation/events"
 
 #add all
 }
@@ -13,8 +13,7 @@ x = 0
 try:
     for key, url in all_nation_url.items(): 
         driver.get(url)
-
-        driver.implicitly_wait(10) 
+        time.sleep(10)
 
 
         print("Page Title:", driver.title)
@@ -29,4 +28,4 @@ try:
 finally:
     driver.quit()
 
-print("HTML contentsaved.")
+print(f"HTML content saved, {x} items")
