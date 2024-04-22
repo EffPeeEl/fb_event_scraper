@@ -1,37 +1,1242 @@
 [
     {
-        "title": "Torsdagsklubb p\u00e5 Stockholms nation",
-        "url": "https://www.facebook.com/events/1347261459301473/",
-        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/437116006_837709045063379_8375074436680364715_n.jpg?stp=c13.0.116.80a_dst-jpg_p110x80&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=pLBVX3xjSSsAb6-RDw4&_nc_ht=scontent-arn2-1.xx&oh=00_AfC34OTvAoYkEvf96CUQZGsux-gylFVa3sSmEuQcf2omfw&oe=66270C1E",
-        "time": "THU, APR 18 AT 7:00\u202fPM CEST",
-        "location": "Drottninggatan 11, 753 10 Uppsala, Sweden\u00a0 \u00b7 UppsalaEvent by Stockholms nation"
+        "title": "Kebab brunch",
+        "nation": "Gotlands nation",
+        "link": "https://www.facebook.com/events/361504756784747/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/432311191_803399931820850_7164978055919914393_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YctQnYoNtwYAb4IPnYO&_nc_ht=scontent-arn2-1.xx&oh=00_AfBUyJfz8PI9wBfsU9QtMhXaxVvXet-QAnA5a2Rvai9GFA&oe=66281F8F",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Gotlands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Kebab brunch",
+        "nation": "Gotlands nation",
+        "link": "https://www.facebook.com/events/361504756784747/?event_time_id=376519065283316",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/432311191_803399931820850_7164978055919914393_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YctQnYoNtwYAb4IPnYO&_nc_ht=scontent-arn2-1.xx&oh=00_AfBUyJfz8PI9wBfsU9QtMhXaxVvXet-QAnA5a2Rvai9GFA&oe=66281F8F",
+        "date": "2024-04-20",
+        "time": "12:00:00",
+        "location": "Gotlands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Reggaepub - Bocktaktarna LIVE at Gotlands",
+        "nation": "Gotlands nation",
+        "link": "https://www.facebook.com/events/1921561908293272/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/438096076_827664579394385_4657008342147958326_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GlZQAYAGWr0Ab478JkO&_nc_ht=scontent-arn2-1.xx&oh=00_AfBbeRku3xHGuKqk8jNaoePOh8Ztn-8APY5Awzecw5o3EA&oe=662805B3",
+        "date": "2024-04-25",
+        "time": "18:00:00",
+        "location": "\u00d6stra \u00c5gatan 13, 75322 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Kebab brunch",
+        "nation": "Gotlands nation",
+        "link": "https://www.facebook.com/events/361504756784747/?event_time_id=376519058616650",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/432311191_803399931820850_7164978055919914393_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YctQnYoNtwYAb4IPnYO&_nc_ht=scontent-arn2-1.xx&oh=00_AfBUyJfz8PI9wBfsU9QtMhXaxVvXet-QAnA5a2Rvai9GFA&oe=66281F8F",
+        "date": "2024-04-27",
+        "time": "12:00:00",
+        "location": "Gotlands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Shotlands p\u00e5 Skvalborg",
+        "nation": "Gotlands nation",
+        "link": "https://www.facebook.com/events/1456846671586315/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/428513551_796493295844847_7857666747650975552_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8_5tjCDcusQAb5gqr9l&_nc_ht=scontent-arn2-1.xx&oh=00_AfAjXjMZFmdueNOxInLNAoTdECrRECaVLm2OW6OEuxJLPw&oe=6627F6DC",
+        "date": "2024-04-28",
+        "time": "15:00:00",
+        "location": "\u00d6stra \u00c5gatan 13, 75322 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Live music - Tomas Rimeika & Anton \u00c5nell - at Gotlands' Pub!",
+        "nation": "Gotlands nation",
+        "link": "https://www.facebook.com/events/760666432832065/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434039572_822695719891271_7947504109685292961_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=EsynpVpyruAAb7BUCgx&_nc_ht=scontent-arn2-1.xx&oh=00_AfCNKF5j4uQIwZ15qC1bE8bcLqDPNPoUwb-R7evEp9xW0g&oe=6628045D",
+        "date": "2024-04-29",
+        "time": "15:00:00",
+        "location": "\u00d6stra \u00c5gatan 13, 75322 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Sillunch",
+        "nation": "Gotlands nation",
+        "link": "https://www.facebook.com/events/793303289364057/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434417881_818631133631063_397241310821404488_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lxpX_tqRqJ0Ab5qjYaC&_nc_ht=scontent-arn2-1.xx&oh=00_AfAhtgH31OaQemPrhxqTmrLhdG3-lWEnxa9BBCOgqVOFSA&oe=66281058",
+        "date": "2024-04-30",
+        "time": "11:00:00",
+        "location": "\u00d6stra \u00c5gatan 13, 75322 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Majmiddag - SLUTS\u00c5LD",
+        "nation": "Gotlands nation",
+        "link": "https://www.facebook.com/events/299932779800445/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433906594_818642890296554_7920612981486736893_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=z8j2zNbDwQkAb6Ju97j&_nc_ht=scontent-arn2-1.xx&oh=00_AfB0W62_CxES3EKlrBZP0MNzZ1Sh9mx9ZPEFOJFKqz4whw&oe=662828CF",
+        "date": "2024-05-01",
+        "time": "17:30:00",
+        "location": "\u00d6stra \u00c5gatan 13, 75322 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Gotlands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Gotlands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "St\u00e4ddag p\u00e5\n                                                                  GH",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "https://www.facebook.com/events/1330167894366610/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424741406_693798712964542_7758777651021094682_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1DdGiQYRTVkAb7oQ9xu&_nc_ht=scontent-arn2-1.xx&oh=00_AfCUEvmW_Vp8NBcmkADIPu2CIXeAIU5PvE-duqnsHyCVVA&oe=662821E5",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan 9\n                                                                75309 Uppsala,\n                                                                Sweden\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              G\u00e4strike-H\u00e4lsinge\n                                                                Nation",
+        "frequency": ""
+    },
+    {
+        "title": "Friday Fika\n                                                                  at GH!",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "https://www.facebook.com/events/428725206324617/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433588247_709235474754199_548775859766049037_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ayUhFv968AEAb78OJio&_nc_ht=scontent-arn2-1.xx&oh=00_AfBZ0s_MRAsYW36hus7uoRofm_6t194eHwADyDBd3oiERA&oe=66282918",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan 9\n                                                                75309 Uppsala,\n                                                                Sweden\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              G\u00e4strike-H\u00e4lsinge\n                                                                Nation",
+        "frequency": ""
+    },
+    {
+        "title": "Friday Fika\n                                                                  at GH!",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "https://www.facebook.com/events/428725206324617/?event_time_id=428725242991280",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433588247_709235474754199_548775859766049037_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ayUhFv968AEAb78OJio&_nc_ht=scontent-arn2-1.xx&oh=00_AfBZ0s_MRAsYW36hus7uoRofm_6t194eHwADyDBd3oiERA&oe=66282918",
+        "date": "2024-04-19",
+        "time": "14:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan 9\n                                                                75309 Uppsala,\n                                                                Sweden\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              G\u00e4strike-H\u00e4lsinge\n                                                                Nation",
+        "frequency": ""
+    },
+    {
+        "title": "EnGHagemangsfika",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "https://www.facebook.com/events/1121017945607142/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434090667_723236440020769_1838208072047954872_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GdTE6TX5N_8Ab6VWfSi&_nc_ht=scontent-arn2-1.xx&oh=00_AfCAmwhwLDw5vQymssK-H3a_QUlMg2WKuXK910hE3DfgkQ&oe=6627FCA5",
+        "date": "2024-04-19",
+        "time": "14:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan\n                                                                9, Uppsala\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              G\u00e4strike-H\u00e4lsinge\n                                                                Nation",
+        "frequency": ""
+    },
+    {
+        "title": "Pancake\n                                                                  brunch",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "https://www.facebook.com/events/1500456117481978/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/438801740_727276456283434_5133691416882016498_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bzr6xvZE-jQAb5wKYU4&_nc_ht=scontent-arn2-1.xx&oh=00_AfBnWli-K00i5u9-t1oBOFPW0qcu79U1w5igeBUkgGACGw&oe=6628060D",
+        "date": "2024-04-20",
+        "time": "11:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan\n                                                                9, 75309\n                                                                Uppsala,\n                                                                Sweden\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              G\u00e4strike-H\u00e4lsinge\n                                                                Nation",
+        "frequency": ""
+    },
+    {
+        "title": "St\u00e4ddag p\u00e5\n                                                                  GH",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "https://www.facebook.com/events/1330167894366610/?event_time_id=1330167904366609",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424741406_693798712964542_7758777651021094682_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1DdGiQYRTVkAb7oQ9xu&_nc_ht=scontent-arn2-1.xx&oh=00_AfCUEvmW_Vp8NBcmkADIPu2CIXeAIU5PvE-duqnsHyCVVA&oe=662821E5",
+        "date": "2024-04-21",
+        "time": "10:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan 9\n                                                                75309 Uppsala,\n                                                                Sweden\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              G\u00e4strike-H\u00e4lsinge\n                                                                Nation",
+        "frequency": ""
+    },
+    {
+        "title": "Friday Fika\n                                                                  at GH!",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "https://www.facebook.com/events/428725206324617/?event_time_id=428725216324616",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433588247_709235474754199_548775859766049037_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ayUhFv968AEAb78OJio&_nc_ht=scontent-arn2-1.xx&oh=00_AfBZ0s_MRAsYW36hus7uoRofm_6t194eHwADyDBd3oiERA&oe=66282918",
+        "date": "2024-04-26",
+        "time": "14:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan 9\n                                                                75309 Uppsala,\n                                                                Sweden\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              G\u00e4strike-H\u00e4lsinge\n                                                                Nation",
+        "frequency": ""
+    },
+    {
+        "title": "GHLASSBORG",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "https://www.facebook.com/events/2187759818234775/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/430830841_706598375017909_8451243941694973199_n.jpg?stp=c0.111.1080.744a_dst-jpg_s180x540&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=J8Na-WtKhwQAb50kzJ2&_nc_ht=scontent-arn2-1.xx&oh=00_AfDWIZZ2lzb3-DKNaWCN34Lg6Z21TNwAJR19cV8dRAG86A&oe=6627FDE5",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan\n                                                                9\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              G\u00e4strike-H\u00e4lsinge\n                                                                Nation",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00e4strike-H\u00e4lsinge nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "Glenns Pub",
+        "nation": "G\u00f6teborgs nation",
+        "link": "https://www.facebook.com/events/3726815614315674/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/421961977_789997483155203_4978220933880322397_n.jpg?stp=c189.0.1670.1152a_dst-jpg_s173x172&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DIkh4aPr9GgAb5o5nuk&_nc_ht=scontent-arn2-1.xx&oh=00_AfDtPY_sfKB0h91tluwVm5c1o7udY7etkC9nQG-JpNU5qQ&oe=66280587",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "S:t Larsgatan 7a\n753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "La Bamba - Lunch AW p\u00e5 G\u00f6teborgs Nation",
+        "nation": "G\u00f6teborgs nation",
+        "link": "https://www.facebook.com/events/882935153514873/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424639180_787639306724354_7521596603311300731_n.jpg?stp=c189.0.1670.1152a_dst-jpg_s173x172&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Z4eTk-Md6NkAb6sNU3V&_nc_ht=scontent-arn2-1.xx&oh=00_AfAVuiZMljQu_xJM4mqp5ZOif2gItZkBwZQmcJsUnIziFA&oe=66282406",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "S:t Larsgatan 7a\n753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "S\u00f6nd\u00e1sbrunchen p\u00e5 G\u00f6teborgs Nation",
+        "nation": "G\u00f6teborgs nation",
+        "link": "https://www.facebook.com/events/1579773302772860/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424585058_787645493390402_4175826639025891808_n.jpg?stp=c189.0.1670.1152a_dst-jpg_s173x172&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mF9cu7a1uuoAb4vVHbp&_nc_ht=scontent-arn2-1.xx&oh=00_AfBcIzjyCRJj2ttW4niNJf39wn6vmp0iZkkBoMGsv42V1g&oe=66282C71",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "S:t Larsgatan 7a\n753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "M\u00e5sens Caf\u00e9 - Pluggfika p\u00e5 G\u00f6teborgs Nation",
+        "nation": "G\u00f6teborgs nation",
+        "link": "https://www.facebook.com/events/1846244402514593/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424674720_787647853390166_406713704507616672_n.jpg?stp=c189.0.1670.1152a_dst-jpg_s173x172&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KU2ziG536gUAb5_Tc3g&_nc_ht=scontent-arn2-1.xx&oh=00_AfBpqFhqcJDc9O-0ZSoUXW1jMwUyKDV9ZBVnYIwr6hx_8g&oe=6628234A",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "S:t Larsgatan 7a\n753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "La Bamba - Lunch AW p\u00e5 G\u00f6teborgs Nation",
+        "nation": "G\u00f6teborgs nation",
+        "link": "https://www.facebook.com/events/882935153514873/?event_time_id=882935166848205",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424639180_787639306724354_7521596603311300731_n.jpg?stp=c189.0.1670.1152a_dst-jpg_s173x172&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Z4eTk-Md6NkAb6sNU3V&_nc_ht=scontent-arn2-1.xx&oh=00_AfAVuiZMljQu_xJM4mqp5ZOif2gItZkBwZQmcJsUnIziFA&oe=66282406",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "S:t Larsgatan 7a\n753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Glenns Pub",
+        "nation": "G\u00f6teborgs nation",
+        "link": "https://www.facebook.com/events/3726815614315674/?event_time_id=3726815627649006",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/421961977_789997483155203_4978220933880322397_n.jpg?stp=c189.0.1670.1152a_dst-jpg_s173x172&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DIkh4aPr9GgAb5o5nuk&_nc_ht=scontent-arn2-1.xx&oh=00_AfDtPY_sfKB0h91tluwVm5c1o7udY7etkC9nQG-JpNU5qQ&oe=66280587",
+        "date": "2024-04-19",
+        "time": "18:00:00",
+        "location": "S:t Larsgatan 7a\n753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "S\u00f6nd\u00e1sbrunchen p\u00e5 G\u00f6teborgs Nation",
+        "nation": "G\u00f6teborgs nation",
+        "link": "https://www.facebook.com/events/1579773302772860/?event_time_id=1579773346106189",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424585058_787645493390402_4175826639025891808_n.jpg?stp=c189.0.1670.1152a_dst-jpg_s173x172&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mF9cu7a1uuoAb4vVHbp&_nc_ht=scontent-arn2-1.xx&oh=00_AfBcIzjyCRJj2ttW4niNJf39wn6vmp0iZkkBoMGsv42V1g&oe=66282C71",
+        "date": "2024-04-20",
+        "time": "11:00:00",
+        "location": "S:t Larsgatan 7a\n753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "M\u00e5sens Caf\u00e9 - Pluggfika p\u00e5 G\u00f6teborgs Nation",
+        "nation": "G\u00f6teborgs nation",
+        "link": "https://www.facebook.com/events/1846244402514593/?event_time_id=1846244505847916",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424674720_787647853390166_406713704507616672_n.jpg?stp=c189.0.1670.1152a_dst-jpg_s173x172&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KU2ziG536gUAb5_Tc3g&_nc_ht=scontent-arn2-1.xx&oh=00_AfBpqFhqcJDc9O-0ZSoUXW1jMwUyKDV9ZBVnYIwr6hx_8g&oe=6628234A",
+        "date": "2024-04-23",
+        "time": "10:00:00",
+        "location": "S:t Larsgatan 7a\n753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00f6teborgs nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00f6teborgs nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00f6teborgs nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00f6teborgs nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00f6teborgs nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00f6teborgs nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00f6teborgs nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "G\u00f6teborgs nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "VALBORG P\u00c5 KALMAR: Pub Valborg",
+        "nation": "Kalmar nation",
+        "link": "https://www.facebook.com/events/372948505742297/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/435697130_835643318601330_1524179904927130181_n.jpg?stp=c126.0.1114.768a_dst-jpg_s180x540&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RflrTwWbXvEAb676U16&_nc_ht=scontent-arn2-1.xx&oh=00_AfDsuKIHcLIxR4WFM631PJOwoSIl0rhhGZUYS_pmodIH9w&oe=66282A44",
+        "date": "2024-04-26",
+        "time": "17:00:00",
+        "location": "Svartmangatan 3, 753 12 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "VALBORG P\u00c5 KALMAR 2024",
+        "nation": "Kalmar nation",
+        "link": "https://www.facebook.com/events/1116225679696180/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/417691815_817776200388042_8223276442787057909_n.jpg?stp=c126.0.1114.768a_dst-jpg_s180x540&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8599WJnNpVkAb4cppuA&_nc_ht=scontent-arn2-1.xx&oh=00_AfDaAeeHXJqAJ6exFnAkcudluyqpHgKbkQ9plFZy4xQz5g&oe=66282902",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Svartmangatan 3, 753 12 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "VALBORG P\u00c5 KALMAR: Kalmar LIVE",
+        "nation": "Kalmar nation",
+        "link": "https://www.facebook.com/events/1143030656865415/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/432408377_818364336995895_2801853350099727595_n.jpg?stp=c126.0.1114.768a_dst-jpg_s180x540&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=pgTmik_zJ6cAb67XfMm&_nc_ht=scontent-arn2-1.xx&oh=00_AfBRYiM1PtRR9OCsn6Xd8mawCpspLdX5mbqIBe132r3ywg&oe=66280157",
+        "date": "2024-04-27",
+        "time": "18:00:00",
+        "location": "Kalmar nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "VALBORG P\u00c5 KALMAR: Ving\u00e5rden och techno",
+        "nation": "Kalmar nation",
+        "link": "https://www.facebook.com/events/796390112345010/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433895348_819280886904240_26304306066914908_n.jpg?stp=c126.0.1114.768a_dst-jpg_s180x540&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4mNaMO2zM4AAb4830z6&_nc_ht=scontent-arn2-1.xx&oh=00_AfC13qk2WyIBB7pEUktHZH-3cPrSMMMTZQPQVSH7ErXqGw&oe=66281FD6",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Kalmar nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "VALBORG P\u00c5 KALMAR: Kollektivets indie",
+        "nation": "Kalmar nation",
+        "link": "https://www.facebook.com/events/2151542038558276/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/419242900_819540863544909_710993610459947962_n.jpg?stp=c126.0.1114.768a_dst-jpg_s180x540&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=V2YygfZ7cCgAb7uswCO&_nc_ht=scontent-arn2-1.xx&oh=00_AfBjlJ1gEt4Y0bShzfNbqsdYYBJDV-5h3bAr-N694rxraA&oe=6627F68B",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Svartmangatan 3, 753 12 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "VALBORG P\u00c5 KALMAR: Sillunch",
+        "nation": "Kalmar nation",
+        "link": "https://www.facebook.com/events/1685814971826157/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/417695175_820122543486741_4147685938151714817_n.jpg?stp=c126.0.1114.768a_dst-jpg_s180x540&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_hnPkXGUOhUAb6Gsdho&_nc_ht=scontent-arn2-1.xx&oh=00_AfAI2huORdk9uCFCXe2XWGDluegHjjImyYIwggHtFq7eDA&oe=6627F674",
+        "date": "2024-04-30",
+        "time": "11:30:00",
+        "location": "Svartmangatan 3, 753 12 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "VALBORG P\u00c5 KALMAR: Champagnegalopp",
+        "nation": "Kalmar nation",
+        "link": "https://www.facebook.com/events/384835750982085/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/418150608_820124453486550_1982767879654683133_n.jpg?stp=c126.0.1114.768a_dst-jpg_s180x540&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gNoalAk7i5gAb4Yif_u&_nc_ht=scontent-arn2-1.xx&oh=00_AfD5jf9wbU1Kjm-Xj5HiesgaRnp7ndmj7adm9hYVFiGn8g&oe=66281117",
+        "date": "2024-04-30",
+        "time": "15:00:00",
+        "location": "Svartmangatan 3, 753 12 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "VALBORG P\u00c5 KALMAR: Majmiddag",
+        "nation": "Kalmar nation",
+        "link": "https://www.facebook.com/events/1425582001667092/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/419491287_820777176754611_7892840378368644137_n.jpg?stp=c126.0.1114.768a_dst-jpg_s180x540&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cViiFKhYVWQAb6fBkT-&_nc_ht=scontent-arn2-1.xx&oh=00_AfC7FMOarSqERpkYe-na97ACs0pPKYy609rgE0FRFk8w9A&oe=6627FF5C",
+        "date": "2024-05-01",
+        "time": "17:30:00",
+        "location": "Svartmangatan 3, 753 12 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Kalmar nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "Darts\u00f6ndag - varje s\u00f6ndag p\u00e5 Orvars krog!",
+        "nation": "Norrlands nation",
+        "link": "https://www.facebook.com/events/831046232393443/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434746662_997093858676910_4950335472098734615_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=o65xYgC86HgAb5rYl3B&_nc_ht=scontent-arn2-1.xx&oh=00_AfB5J5afdhIX42FqiJV9ltl1BljFI6PknRYfwUFDvwOtoA&oe=66280497",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Orvars Krog\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Ett syrligt L\u00f6rdagsfika!",
+        "nation": "Norrlands nation",
+        "link": "https://www.facebook.com/events/8139442136074192/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/436253466_833213662177989_8415280520358512979_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XXPpsusDBH4Ab7hzN21&_nc_ht=scontent-arn2-1.xx&oh=00_AfAYYB8-PStc-VOsE3Wbe2IGCXBTzQL1_ikItfRYewa6aA&oe=6627FD4A",
+        "date": "2024-04-20",
+        "time": "12:00:00",
+        "location": "Majs Caf\u00e9 - Norrlands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "V\u00c5RUTST\u00c4LLNING med Norrlands n\u00e5lar & Kulturutskottet",
+        "nation": "Norrlands nation",
+        "link": "https://www.facebook.com/events/1463622917565066/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433975823_432170782789919_5225598053491356667_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gOkJtcO1PAQAb5RVW-0&_nc_ht=scontent-arn2-1.xx&oh=00_AfAl0jw52GEhpPgUhvCmzQcWNowq6n2InfNrE-bwXPK-MA&oe=66280878",
+        "date": "2024-04-21",
+        "time": "13:00:00",
+        "location": "V\u00e4stra \u00c5gatan 14, 75309 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "HEXABORG: F\u00f6rfesten till Festivalborg!",
+        "nation": "Norrlands nation",
+        "link": "https://www.facebook.com/events/791763872327610/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434159990_820190426813646_2549869751772343091_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X0uUya8h1ewAb7QDTZX&_nc_oc=AdivjQY46mAKJh6P2DrPbFRxlJgq-Ae3kE5cDf4A-whxVe3D7dtM5JvMH13YTtjT6g7tX6vW-xPO3KWut8n8mQqt&_nc_ht=scontent-arn2-1.xx&oh=00_AfBWk6MG2QatNF9sCaOvlGZfIwF36umNh-5YAdZShKGWJw&oe=662812FC",
+        "date": "2024-04-24",
+        "time": "21:00:00",
+        "location": "Norrlands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "FESTIVALBORG 2024!!",
+        "nation": "Norrlands nation",
+        "link": "https://www.facebook.com/events/1457009985216577/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/431524874_812751610890861_3317854977757354120_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qfoZb89OPBsAb7b3Ij7&_nc_ht=scontent-arn2-1.xx&oh=00_AfCXh_fMyTxsP986L3R4VDxBfK-E5Ob3BbOBnvlgAaCN-w&oe=662818C4",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Norrlands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "LIVEBORG: BEER PONG-TURNERING!",
+        "nation": "Norrlands nation",
+        "link": "https://www.facebook.com/events/1682313715633024/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/432377297_434286018945963_1167976878897845823_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GhME94dBtn0Ab4lAX7r&_nc_ht=scontent-arn2-1.xx&oh=00_AfDVDs-dYsRUDBZEzFUZ1O7QMvvEcaeDK9PNtX4CoaGKLA&oe=662819EA",
+        "date": "2024-04-27",
+        "time": "19:00:00",
+        "location": "Norrlands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "SKVALBORG: FIKABORG & MEGAORVAR",
+        "nation": "Norrlands nation",
+        "link": "https://www.facebook.com/events/427626279714831/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433733158_436762865364945_6815024958625733298_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ygs5YFSENucAb5kR5K2&_nc_ht=scontent-arn2-1.xx&oh=00_AfCxcu_LOgnbI58ujg0ZhoxRgBSAfKphtttVGAFbGdBz1Q&oe=662819AC",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Norrlands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "KVALBORG: DAGSFEST - FELICIA TAKMAN",
+        "nation": "Norrlands nation",
+        "link": "https://www.facebook.com/events/3633847776929491/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433703020_815234200642602_2437044529374161157_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YoD_2x7HIdwAb7Y8j0p&_nc_ht=scontent-arn2-1.xx&oh=00_AfBMdqjI-rAXWRgsfka1R2ISpNgiFJgcFAPgMw0P2W4bjg&oe=66282580",
+        "date": "2024-04-29",
+        "time": "13:00:00",
+        "location": "Norrlands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Norrlands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Norrlands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "FredagsLYX - Sm\u00e5lands nation",
+        "nation": "Sm\u00e5lands nation",
+        "link": "https://www.facebook.com/events/1101958054281272/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/428646340_783652120464975_4861139373019376243_n.jpg?stp=c187.0.1674.1154a_dst-jpg_s173x172&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yLe86AHtauQAb6Cx0tt&_nc_ht=scontent-arn2-1.xx&oh=00_AfAtYuicay01AAIFUtK6NmrZqnHPb8yJhGqY1QqPoaYZcA&oe=6627FD0B",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Sm\u00e5lands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "L\u00f6rdagsfika @ Sm\u00e5lands nation",
+        "nation": "Sm\u00e5lands nation",
+        "link": "https://www.facebook.com/events/695716709398737/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/425312248_783644447132409_1097821337960175617_n.jpg?stp=c187.0.1674.1154a_dst-jpg_s173x172&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Puh27woquKcAb6yBzOV&_nc_ht=scontent-arn2-1.xx&oh=00_AfA8mftYVbj5kPImgeLrmmTAFsnmpWAWbhOEIVASZKvZpA&oe=6627FB85",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Sm\u00e5lands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Pub Hyttan - Sm\u00e5lands nation",
+        "nation": "Sm\u00e5lands nation",
+        "link": "https://www.facebook.com/events/759974116068632/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/430705228_796876855809168_2845829928226895357_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nrGTBeGRopwAb7344eI&_nc_ht=scontent-arn2-1.xx&oh=00_AfCgTVLe8UEY2egarYOk1VAxZ4IiGQGVo4NO2ZWvLRFLlA&oe=6628252D",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Sankt Larsgatan 5, 753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "ST\u00c4DDAG - Sm\u00e5lands nation",
+        "nation": "Sm\u00e5lands nation",
+        "link": "https://www.facebook.com/events/933287804998669/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/431522156_799789582184562_4571156552798046883_n.jpg?stp=c187.0.1674.1154a_dst-jpg_s173x172&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cBo4yxD7bGIAb6wpOrL&_nc_ht=scontent-arn2-1.xx&oh=00_AfBMiqo6wJPCYuz1HKEnP0stvaxg_S8Li3e9BEhqtpgZDA&oe=6627FB5F",
+        "date": "2024-05-05",
+        "time": "11:00:00",
+        "location": "Sm\u00e5lands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Pub Hyttan - Sm\u00e5lands nation",
+        "nation": "Sm\u00e5lands nation",
+        "link": "https://www.facebook.com/events/759974116068632/?event_time_id=759974196068624",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/430705228_796876855809168_2845829928226895357_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nrGTBeGRopwAb7344eI&_nc_ht=scontent-arn2-1.xx&oh=00_AfCgTVLe8UEY2egarYOk1VAxZ4IiGQGVo4NO2ZWvLRFLlA&oe=6628252D",
+        "date": "2024-04-19",
+        "time": "18:00:00",
+        "location": "Sankt Larsgatan 5, 753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Pub Hyttan med Flyxarna: Harry Potter tema - Sm\u00e5lands nation",
+        "nation": "Sm\u00e5lands nation",
+        "link": "https://www.facebook.com/events/1809298492900048/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/438118190_817450310418489_2758742698071816862_n.jpg?stp=c187.0.1674.1154a_dst-jpg_s173x172&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=W6SaVIKOaQkAb4ZiH4q&_nc_ht=scontent-arn2-1.xx&oh=00_AfDGKoT9mJWcsnbdNxd21y8HOgV1HHVR5QEtJozRkuGBdg&oe=662801D0",
+        "date": "2024-04-19",
+        "time": "18:00:00",
+        "location": "Sm\u00e5lands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "L\u00f6rdagsfika @ Sm\u00e5lands nation",
+        "nation": "Sm\u00e5lands nation",
+        "link": "https://www.facebook.com/events/695716709398737/?event_time_id=695716732732068",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/425312248_783644447132409_1097821337960175617_n.jpg?stp=c187.0.1674.1154a_dst-jpg_s173x172&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Puh27woquKcAb6yBzOV&_nc_ht=scontent-arn2-1.xx&oh=00_AfA8mftYVbj5kPImgeLrmmTAFsnmpWAWbhOEIVASZKvZpA&oe=6627FB85",
+        "date": "2024-04-20",
+        "time": "12:00:00",
+        "location": "Sm\u00e5lands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Pub Hyttan - Sm\u00e5lands nation",
+        "nation": "Sm\u00e5lands nation",
+        "link": "https://www.facebook.com/events/759974116068632/?event_time_id=759974189401958",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/430705228_796876855809168_2845829928226895357_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nrGTBeGRopwAb7344eI&_nc_ht=scontent-arn2-1.xx&oh=00_AfCgTVLe8UEY2egarYOk1VAxZ4IiGQGVo4NO2ZWvLRFLlA&oe=6628252D",
+        "date": "2024-04-23",
+        "time": "18:00:00",
+        "location": "Sankt Larsgatan 5, 753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Sm\u00e5lands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Sm\u00e5lands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Sm\u00e5lands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Sm\u00e5lands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Sm\u00e5lands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Sm\u00e5lands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Sm\u00e5lands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Sm\u00e5lands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
     },
     {
         "title": "V\u00e5rkonsert med Erato SNDK",
-        "url": "https://www.facebook.com/events/454360377156622/",
-        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434394285_937106408417584_5334484339963735685_n.jpg?stp=c13.0.116.80a_dst-jpg_p110x80&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5uCc2R_vOlcAb5GnIY4&_nc_ht=scontent-arn2-1.xx&oh=00_AfBSIxnJ5CRxU4MSvdL5Meaq9WZn6ut0m_PAfbkOJILC1w&oe=6626FBD1",
-        "time": "FRI, APR 26 AT 7:00\u202fPM CEST",
-        "location": "Helga Trefaldighets kyrka\u00a0 \u00b7 UppsalaEvent by Erato SNDK"
+        "nation": "Stockholms nation",
+        "link": "https://www.facebook.com/events/454360377156622/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434394285_937106408417584_5334484339963735685_n.jpg?stp=c13.0.116.80a_dst-jpg_p110x80&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5uCc2R_vOlcAb7c7TPf&_nc_ht=scontent-arn2-1.xx&oh=00_AfAHjrfRktoTRlth6rQMBjEJz5aDjmEGIIU3QRQZgZnB_g&oe=66281511",
+        "date": "2024-04-26",
+        "time": "19:00:00",
+        "location": "Helga Trefaldighets kyrka\u00a0 \u00b7 ",
+        "frequency": ""
     },
     {
         "title": "STOCKEN GARDEN 2024",
-        "url": "https://www.facebook.com/events/769380705068834/",
-        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/428636021_804179491749668_5898589851853861517_n.jpg?stp=c13.0.116.80a_dst-jpg_p110x80&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_Cr35_B0-wUAb4BhbkS&_nc_ht=scontent-arn2-1.xx&oh=00_AfDfSW17MVkFOlZhI7eTXPOWHNddpQrJbfztgIllQlvm5g&oe=662704AF",
-        "time": "SUN, APR 28 - APR 30",
-        "location": "Drottninggatan 11, 753 10 Uppsala, Sweden\u00a0 \u00b7 UppsalaEvent by Stockholms nation"
+        "nation": "Stockholms nation",
+        "link": "https://www.facebook.com/events/769380705068834/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/428636021_804179491749668_5898589851853861517_n.jpg?stp=c13.0.116.80a_dst-jpg_p110x80&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_Cr35_B0-wUAb5por52&_nc_ht=scontent-arn2-1.xx&oh=00_AfAb9WIHoSQfy32plCHCSfegrhu5SkOYj9-9JbPABmRGkw&oe=66281DEF",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Drottninggatan 11, 753 10 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
     },
     {
         "title": "CHAMPAGNEGALOPPEN 50 \u00c5R p\u00e5 Stockholms Nation",
-        "url": "https://www.facebook.com/events/1338637750182710/",
-        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/431592955_821259113375039_8848900106248456515_n.jpg?stp=c13.0.116.80a_dst-jpg_p110x80&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vP_PBSAMRKIAb5kElk0&_nc_ht=scontent-arn2-1.xx&oh=00_AfBfu3zuzleXOq03YSqaUYo9ZspjeytrVXw3gPmrHejZmg&oe=6627001B",
-        "time": "TUE, APR 30 AT 12:00\u202fPM CEST",
-        "location": "Drottninggatan 11, 753 10 Uppsala, Sweden\u00a0 \u00b7 UppsalaEvent by Stockholms nation"
+        "nation": "Stockholms nation",
+        "link": "https://www.facebook.com/events/1338637750182710/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/431592955_821259113375039_8848900106248456515_n.jpg?stp=c13.0.116.80a_dst-jpg_p110x80&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vP_PBSAMRKIAb7EPHEa&_nc_ht=scontent-arn2-1.xx&oh=00_AfDUH5CRcZOfvAIcQ5McjAyIZMCa2FWf_IaIygutjT1Svg&oe=6628195B",
+        "date": "2024-04-30",
+        "time": "12:00:00",
+        "location": "Drottninggatan 11, 753 10 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
     },
     {
         "title": "Majmiddagen 2024",
-        "url": "https://www.facebook.com/events/434820699020707/",
-        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/420770296_830446339122983_6859389565496989479_n.jpg?stp=c13.0.116.80a_dst-jpg_p110x80&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=pyARw-zISRUAb7npR9F&_nc_ht=scontent-arn2-1.xx&oh=00_AfBS5JNGRZOa0Rsr4zd4O99RIXsUtZ3dzSPkefpu4_qLYw&oe=66270427",
-        "time": "WED, MAY 1 AT 4:00\u202fPM CEST",
-        "location": "Drottninggatan 11, 753 10 Uppsala, Sweden\u00a0 \u00b7 UppsalaEvent by Stockholms nation"
+        "nation": "Stockholms nation",
+        "link": "https://www.facebook.com/events/434820699020707/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/420770296_830446339122983_6859389565496989479_n.jpg?stp=c13.0.116.80a_dst-jpg_p110x80&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ySe4p1AL3NgAb60ay5h&_nc_ht=scontent-arn2-1.xx&oh=00_AfB5jYpRN_WA5D6HVIx-c8qjoxv9uwss2GhhQbmj7dyE-Q&oe=66281D67",
+        "date": "2024-05-01",
+        "time": "16:00:00",
+        "location": "Drottninggatan 11, 753 10 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Bubbles and Pancakes \u00e5 S\u00f6dermanlands-Nerikes Nation",
+        "nation": "S\u00f6dermanland-Nerikes nation",
+        "link": "https://www.facebook.com/events/414762667836312/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/420798820_858675062971795_2311888467882608012_n.jpg?stp=c187.0.1674.1154a_dst-jpg_s173x172&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=piG9EN267XoAb49aSX5&_nc_ht=scontent-arn2-1.xx&oh=00_AfDVoKeI3PhBkKRq3IevW4sHw70qeaWOAKdcIgHds_2kig&oe=6627F697",
+        "date": "2024-04-21",
+        "time": "11:00:00",
+        "location": "S:t Olofsgatan 16, 75312 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "V\u00e5rkonsert i Sigtuna med mansk\u00f6ren S\u00f6nerna",
+        "nation": "S\u00f6dermanland-Nerikes nation",
+        "link": "https://www.facebook.com/events/2823598051126216/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433954100_432215132539166_3596740626006688034_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=R2jdU_nzJ74Ab7TpeFn&_nc_ht=scontent-arn2-1.xx&oh=00_AfD3VtvCqVJyDkrPlSgS_KldHELdRK55YPaNwHTf1Yif5w&oe=66280D4A",
+        "date": "2024-04-25",
+        "time": "20:00:00",
+        "location": "Mariakyrkan, Sigtuna\u00a0 \u00b7 SigtunaEvent by S\u00f6nerna",
+        "frequency": ""
+    },
+    {
+        "title": "Snerikes Valborg 2024 \u2013 Festivaldagarna",
+        "nation": "S\u00f6dermanland-Nerikes nation",
+        "link": "https://www.facebook.com/events/289009350875504/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/429668836_837511785088123_3085782439969340543_n.jpg?stp=c89.0.1745.1203a_dst-jpg_s173x172&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DMNP4Yvq-fIAb5kndiV&_nc_ht=scontent-arn2-1.xx&oh=00_AfDj0etAzKSuSB8WxK8HbQObDd2PHjSLrJRbtOBQFSBnVA&oe=6627FBBF",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "S\u00f6dermanlands-Nerikes nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Champagnegalopp \u00e5 S\u00f6dermanlands-Nerikes nation 2024",
+        "nation": "S\u00f6dermanland-Nerikes nation",
+        "link": "https://www.facebook.com/events/2658008831040633/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/431514560_838028535036448_6195724341884339865_n.jpg?stp=c59.0.1166.804a_dst-jpg_s180x540&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GAnkcjYZsCIAb7jEN2E&_nc_ht=scontent-arn2-1.xx&oh=00_AfBBppmP3FbAprJOXcvQ9GXdjV41V1r-gK_28KYOy3aqjQ&oe=66281ED1",
+        "date": "2024-04-30",
+        "time": "12:00:00",
+        "location": "S\u00f6dermanlands-Nerikes Nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Majmiddag \u00e5 S\u00f6dermanlands-Nerikes Nation",
+        "nation": "S\u00f6dermanland-Nerikes nation",
+        "link": "https://www.facebook.com/events/791077469611946/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/436120557_863191079186860_8811203127747712464_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hggGCnH9SnkAb5ws0rW&_nc_ht=scontent-arn2-1.xx&oh=00_AfCFvfRAIUDCG67HtBVVniwt4zPtxuuqhU086TxKErdFOA&oe=66282912",
+        "date": "2024-05-01",
+        "time": "12:00:00",
+        "location": "S:t Olofsgatan 16, 75312 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Damk\u00f6ren Mejas v\u00e5rkonsert!",
+        "nation": "S\u00f6dermanland-Nerikes nation",
+        "link": "https://www.facebook.com/events/1105513007165654/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/437523967_122173907396022947_2105665330949728709_n.jpg?stp=c0.41.173.120a_dst-jpg_p173x172&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OibIdVXdLTAAb6Qa-u6&_nc_ht=scontent-arn2-1.xx&oh=00_AfAuZc1t2KajvAghKrfzXZKSxG1ueXjuHw6RdH0OGry6HA&oe=66281525",
+        "date": "2024-05-04",
+        "time": "16:00:00",
+        "location": "Helga Trefaldighets kyrka\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Volleyball with Uplands ",
+        "nation": "Uplands nation",
+        "link": "https://www.facebook.com/events/1841783992861975/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/337517445_738812491297480_7518474236405966913_n.jpg?stp=c33.0.172.119a_dst-jpg_p228x119&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Te1Brw4nVz8Ab6A7hhN&_nc_ht=scontent-arn2-1.xx&oh=00_AfBKJDqJ9cIp6BW0dniH3XnpIer9GHf42KJ2oK92XHmSMQ&oe=6627F588",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Fyrishov\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Swimming with Uplands ",
+        "nation": "Uplands nation",
+        "link": "https://www.facebook.com/events/1451309795727489/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/384205574_313454497959589_2367903018519728537_n.png?stp=c33.0.172.119a_dst-png_p228x119&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=knBt0AmUf7cAb648rP_&_nc_ht=scontent-arn2-1.xx&oh=00_AfDsLJVXa0259bk9N5jMIN4syaLzZ44J9TrxF5yCjXYhow&oe=6627FABC",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Fyrishov\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Basketball with Uplands ",
+        "nation": "Uplands nation",
+        "link": "https://www.facebook.com/events/705399311661957/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/421121357_370555918916113_4330601467700942122_n.png?stp=c33.0.172.119a_dst-png_p228x119&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6cokOjZI1IsAb63itk_&_nc_ht=scontent-arn2-1.xx&oh=00_AfBTQ7jI7EVPufGLX1aF00QjK3AU6yTpXbVz-zTDbdXdmg&oe=66280585",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Katedralskolan Uppsala\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Running with Uplands ",
+        "nation": "Uplands nation",
+        "link": "https://www.facebook.com/events/1324189075646332/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/417424637_379699924668379_932595329773776518_n.png?stp=c33.0.172.119a_dst-png_p228x119&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9Ypm8L55Bq8Ab74N_qN&_nc_ht=scontent-arn2-1.xx&oh=00_AfAac8P8an68s4vMswRPwIUxMiz5u6wsv9P3WTyl4DUwXg&oe=66280061",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Uplands nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Ebba's Caf\u00e9 - Lunch and Fika",
+        "nation": "Uplands nation",
+        "link": "https://www.facebook.com/events/402664368878498/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/425583594_785695583597013_148210539659059572_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g5T9VbgvKfgAb6n1qnF&_nc_ht=scontent-arn2-1.xx&oh=00_AfBdrFBWvqqUhgpUdTIR147t_HEDJeT-tHr3E-j46Q_QSQ&oe=66281069",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "St Larsgatan 11, Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Ebba's Caf\u00e9 - Lunch and Fika",
+        "nation": "Uplands nation",
+        "link": "https://www.facebook.com/events/402664368878498/?event_time_id=402664412211827",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/425583594_785695583597013_148210539659059572_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g5T9VbgvKfgAb6n1qnF&_nc_ht=scontent-arn2-1.xx&oh=00_AfBdrFBWvqqUhgpUdTIR147t_HEDJeT-tHr3E-j46Q_QSQ&oe=66281069",
+        "date": "2024-04-19",
+        "time": "12:00:00",
+        "location": "St Larsgatan 11, Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "\"Grave of the Fireflies\" - movie night",
+        "nation": "Uplands nation",
+        "link": "https://www.facebook.com/events/967341464468233/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/437846230_433296979391221_6198073337541607432_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=m-V7WlTQ1SQAb41cxIK&_nc_ht=scontent-arn2-1.xx&oh=00_AfCds2_ryX7ze2OcKSIKUbC5RnCpbPEPyoEZsdFIGmJZwA&oe=66281B8B",
+        "date": "2024-04-19",
+        "time": "18:15:00",
+        "location": "St Larsgatan 11, 753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Cleaning Day: GARDEN EDITION",
+        "nation": "Uplands nation",
+        "link": "https://www.facebook.com/events/1201472030840975/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/438082840_829548772545027_6791239682861814535_n.jpg?stp=c150.0.1340.924a_dst-jpg_s180x540&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=IrcphxbIOFsAb6SbHIC&_nc_ht=scontent-arn2-1.xx&oh=00_AfBanqZ6EmsQ2ghIJ8qgFWUbpeAlgHdggUmyIpTccSLWUA&oe=66281EB6",
+        "date": "2024-04-21",
+        "time": "10:30:00",
+        "location": "St Larsgatan 11, 753 11 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Uplands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Uplands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Uplands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Uplands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Uplands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Uplands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Uplands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "Uplands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "Klubb V",
+        "nation": "V\u00e4rmlands nation",
+        "link": "https://www.facebook.com/events/372464348729703/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424631086_818297743667422_3885420905742218821_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=h9IyKsgHPGQAb4JKfGk&_nc_ht=scontent-arn2-1.xx&oh=00_AfAhTx9PflFD1ScIeXel1njHFewuDst57r5hk-aYZ-4xpQ&oe=66280711",
+        "date": "2024-04-19",
+        "time": "20:00:00",
+        "location": "V\u00e4rmlands Nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Selmas Caf\u00e9 \u2013 S\u00f6ndagsfika p\u00e5 V\u00e4rmlands nation",
+        "nation": "V\u00e4rmlands nation",
+        "link": "https://www.facebook.com/events/925935745789651/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/422009896_818223147008215_8548421024784137576_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=q9LA0Th-s4QAb6DNFQd&_nc_oc=AdgZpUldQdRFa9_3da6M4AKbYFW9bVRqYpaDclqKqFEvBvtEziMjh6SFWRFcvyamqqbo8WyPTCMbcEZ59m2jZhBu&_nc_ht=scontent-arn2-1.xx&oh=00_AfDgvvbAXLz_qcV1AnhU64bzNtI3JApLvRNDaA8GitIgdA&oe=662803EC",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "V\u00e4rmlands Nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Klubb V",
+        "nation": "V\u00e4rmlands nation",
+        "link": "https://www.facebook.com/events/372464348729703/?event_time_id=372464365396368",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424631086_818297743667422_3885420905742218821_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=h9IyKsgHPGQAb4JKfGk&_nc_ht=scontent-arn2-1.xx&oh=00_AfAhTx9PflFD1ScIeXel1njHFewuDst57r5hk-aYZ-4xpQ&oe=66280711",
+        "date": "2024-04-19",
+        "time": "20:00:00",
+        "location": "V\u00e4rmlands Nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Selmas Caf\u00e9 \u2013 S\u00f6ndagsfika p\u00e5 V\u00e4rmlands nation",
+        "nation": "V\u00e4rmlands nation",
+        "link": "https://www.facebook.com/events/925935745789651/?event_time_id=925935749122984",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/422009896_818223147008215_8548421024784137576_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=q9LA0Th-s4QAb6DNFQd&_nc_oc=AdgZpUldQdRFa9_3da6M4AKbYFW9bVRqYpaDclqKqFEvBvtEziMjh6SFWRFcvyamqqbo8WyPTCMbcEZ59m2jZhBu&_nc_ht=scontent-arn2-1.xx&oh=00_AfDgvvbAXLz_qcV1AnhU64bzNtI3JApLvRNDaA8GitIgdA&oe=662803EC",
+        "date": "2024-04-21",
+        "time": "12:00:00",
+        "location": "V\u00e4rmlands Nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Selmas Caf\u00e9 \u2013 S\u00f6ndagsfika p\u00e5 V\u00e4rmlands nation",
+        "nation": "V\u00e4rmlands nation",
+        "link": "https://www.facebook.com/events/925935745789651/?event_time_id=925935772456315",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/422009896_818223147008215_8548421024784137576_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=q9LA0Th-s4QAb6DNFQd&_nc_oc=AdgZpUldQdRFa9_3da6M4AKbYFW9bVRqYpaDclqKqFEvBvtEziMjh6SFWRFcvyamqqbo8WyPTCMbcEZ59m2jZhBu&_nc_ht=scontent-arn2-1.xx&oh=00_AfDgvvbAXLz_qcV1AnhU64bzNtI3JApLvRNDaA8GitIgdA&oe=662803EC",
+        "date": "2024-04-28",
+        "time": "12:00:00",
+        "location": "V\u00e4rmlands Nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "KLUBB VALBORG \u2013 V\u00e4rmlands nations valborgsfirande 2024",
+        "nation": "V\u00e4rmlands nation",
+        "link": "https://www.facebook.com/events/801998915150116/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/430818211_846633980833798_8617258102428150120_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=58AyjIhph3MAb7khKE4&_nc_ht=scontent-arn2-1.xx&oh=00_AfAdxACyJjT-0rnwmrmImDUW9sAGaVfQ7b3NhsPrI3_SVg&oe=662828DA",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Ingmar Bergmansgatan 2, 75310 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Valborgssillunch",
+        "nation": "V\u00e4rmlands nation",
+        "link": "https://www.facebook.com/events/757966663106417/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/438163446_876140251216504_6698663996623398203_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=2AbJoieHB_gAb5A6kxa&_nc_ht=scontent-arn2-1.xx&oh=00_AfCdw2wILdpNfNnQbeyAGhoi73WHNpxRSLIJdNKBrS8jJQ&oe=66281A85",
+        "date": "2024-04-30",
+        "time": "11:00:00",
+        "location": "V\u00e4rmlands Nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Majmiddag",
+        "nation": "V\u00e4rmlands nation",
+        "link": "https://www.facebook.com/events/778907063914950/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/437718367_877369074426955_5375621056347100835_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YGaJ_gV2hOUAb6h-8E5&_nc_ht=scontent-arn2-1.xx&oh=00_AfAjndvFKKsQQHt2TeboHy26vdNLzUPb8IT_L4XYj78ODg&oe=662823FA",
+        "date": "2024-05-04",
+        "time": "17:30:00",
+        "location": "V\u00e4rmlands Nation\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "V\u00e4rmlands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "V\u00e4rmlands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "",
+        "nation": "V\u00e4rmlands nation",
+        "link": "",
+        "image_url": "",
+        "date": "",
+        "time": "",
+        "location": "",
+        "frequency": ""
+    },
+    {
+        "title": "Tirolborg p\u00e5 V\u00e4stg\u00f6ta Nation",
+        "nation": "V\u00e4stg\u00f6ta nation",
+        "link": "https://www.facebook.com/events/1099036664723506/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/431531706_825515779619998_4035080223778636367_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=845Y25L1zSAAb44ywHL&_nc_ht=scontent-arn2-1.xx&oh=00_AfDpB5SfZZ-CHo59dvQxi7-eJ58Gb-SaNJ7JRLXtJVbE8w&oe=66280184",
+        "date": "2024-04-28",
+        "time": "14:00:00",
+        "location": "Slottsgr\u00e4nd 12, SE-753 09 Uppsala, Sverige\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "V\u00e4stg\u00f6ta nations Beergarden",
+        "nation": "V\u00e4stg\u00f6ta nation",
+        "link": "https://www.facebook.com/events/751466060436406/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/432744474_825621726276070_5812213737209928855_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9Z69A9IF7HcAb5AJBdy&_nc_ht=scontent-arn2-1.xx&oh=00_AfD72bPDJYiFptXnRUTA5N_lCJpDyg99iA-6YH8j0CDwsQ&oe=66282B87",
+        "date": "2024-04-29",
+        "time": "12:00:00",
+        "location": "Slottsgr\u00e4nd 12, 75309 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Jubileums Majmiddag \u00e5 V\u00e4stg\u00f6ta Nation",
+        "nation": "V\u00e4stg\u00f6ta nation",
+        "link": "https://www.facebook.com/events/1516592039205910/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/437392389_843164951188414_8897502826030347130_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8I5xCcdZAt4Ab6xOgC2&_nc_ht=scontent-arn2-1.xx&oh=00_AfAicc-MvVGwoUkia7Kdt3Vq3ZjjrBoQT80yqFXq-IXmVA&oe=66280A52",
+        "date": "2024-05-01",
+        "time": "15:00:00",
+        "location": "V\u00e4stg\u00f6ta Nation, Uppsala\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Eurovision Gasque med 04-sl\u00e4pp",
+        "nation": "V\u00e4stg\u00f6ta nation",
+        "link": "https://www.facebook.com/events/797431665200688/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/438161456_843858424452400_4279490322701709517_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Bq5fv6wTbt0Ab5mdDfW&_nc_ht=scontent-arn2-1.xx&oh=00_AfBuPZqBZBekK7YFjfPG5XBQqTeWOijCNUGGE-BBg-AuUg&oe=66282A03",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Slottsgr\u00e4nd 12, 75309 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "H\u00f6gtidslandskap\n                                                                  &\n                                                                  Silllunch",
+        "nation": "V\u00e4stmanlands-Dala nation",
+        "link": "https://www.facebook.com/events/347320764456968/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434456680_845199080977879_5588953409606412874_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3LPmUOz8l4sAb5dbnqF&_nc_ht=scontent-arn2-1.xx&oh=00_AfBItO_F5iZ_0WtKKpM_0k5sLLDVIgitMBfVGx0EC-eyJQ&oe=66281105",
+        "date": "2024-04-30",
+        "time": "12:00:00",
+        "location": "Sankt Larsgatan\n                                                                13, 753 11\n                                                                Uppsala,\n                                                                Sweden\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              V-Dala\n                                                                nation",
+        "frequency": ""
+    },
+    {
+        "title": "Majmiddag \u2013\n                                                                  V\u00e4stmanlands-Dala\n                                                                  nation &\n                                                                  Sm\u00e5lands\n                                                                  nation ",
+        "nation": "V\u00e4stmanlands-Dala nation",
+        "link": "https://www.facebook.com/events/392584627052402/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/434185028_834525468711907_6820105165001019481_n.jpg?stp=c261.0.1458.1005a_dst-jpg_s173x172&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VUC78DnvmSoAb7fUO7R&_nc_ht=scontent-arn2-1.xx&oh=00_AfBTW7dCSjY-Yq_yyYjuT2qMttHPwMcLpp8JsoDRQbQNhw&oe=66280D73",
+        "date": "2024-05-01",
+        "time": "16:00:00",
+        "location": "Sm\u00e5lands\n                                                                nation\u00a0\n                                                                    \u00b7\n                                                                  Uppsala\n                                                              \n                                                              Event by\n                                                              V-Dala\n                                                                nation",
+        "frequency": ""
+    },
+    {
+        "title": "VALBORG P\u00c5 \u00d6STG\u00d6TA",
+        "nation": "\u00d6stg\u00f6ta nation",
+        "link": "https://www.facebook.com/events/1127950708365442/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/424648717_809798944517297_6425027438800386846_n.jpg?stp=c299.0.1450.1000a_dst-jpg_s173x172&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=HZu3rwKlgfgAb7tIPD7&_nc_ht=scontent-arn2-1.xx&oh=00_AfB3-KlL5RCSWJUlWchU3nX5bZayruxd3TFwOgqPl8xBFQ&oe=662813B9",
+        "date": "1900-01-01",
+        "time": "00:00:00",
+        "location": "Event by \u00d6stg\u00f6ta nation",
+        "frequency": ""
+    },
+    {
+        "title": "CHAMPAGNEGALOPP P\u00c5 \u00d6STG\u00d6TA",
+        "nation": "\u00d6stg\u00f6ta nation",
+        "link": "https://www.facebook.com/events/1079674703087193/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/430700058_823893173107874_8881333626332425_n.jpg?stp=c299.0.1450.1000a_dst-jpg_s173x172&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1saVxT6iVVQAb6yh5pb&_nc_ht=scontent-arn2-1.xx&oh=00_AfCByxtZrJOygwKg5nRLAfZgjR6wmeZ-Zrufkv9wukNw0w&oe=6628128D",
+        "date": "2024-04-30",
+        "time": "15:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan 15, 753 09 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "Majmiddag",
+        "nation": "\u00d6stg\u00f6ta nation",
+        "link": "https://www.facebook.com/events/868420121710425/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/433930005_831525179011340_977049745603077165_n.jpg?stp=c177.0.1566.1080a_dst-jpg_s173x172&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xvFGF7-O_L8Ab5nxU2g&_nc_oc=AdjqgHEOuZi-pJqdeuqgX8yi0gItybr0zk12f_kxPNC5VYbTY2eVHJlVrl2bMIhr4FPRU3P2gFvmU0U_Qm9kll_T&_nc_ht=scontent-arn2-1.xx&oh=00_AfCD8_OLksgzLO_NDnvY3oeQTH3lMuMSps1lk7Ej7oJsWA&oe=66282C28",
+        "date": "2024-05-01",
+        "time": "12:00:00",
+        "location": "Tr\u00e4dg\u00e5rdsgatan 15, 753 09 Uppsala, Sweden\u00a0 \u00b7 ",
+        "frequency": ""
+    },
+    {
+        "title": "\u00d6Gs Caf\u00e9 Norrk\u00f6ping: KARAKOU",
+        "nation": "\u00d6stg\u00f6ta nation",
+        "link": "https://www.facebook.com/events/1505109483383100/",
+        "image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/436316700_846089604221564_7097796184764931558_n.jpg?stp=c27.0.174.119a_dst-jpg_p228x119&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3EqjrSz9B6oAb62vmNp&_nc_ht=scontent-arn2-1.xx&oh=00_AfDPgnUF-mVUsB0fUmysqTQ_eKjsnBcBTGm8dJgTujDcoA&oe=6627F96B",
+        "date": "2024-05-15",
+        "time": "21:00:00",
+        "location": "\u00d6stg\u00f6ta nation\u00a0 \u00b7 ",
+        "frequency": ""
     }
 ]
