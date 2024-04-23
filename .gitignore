@@ -7,3 +7,6 @@ cat_pred/Lib/
 cat_pred/Scripts/
 cat_pred/share/
 cat_pred/Include/
+/cat_pred
+/__pycache__
+/__pycache__
