@@ -10,8 +10,10 @@ def run_scraping(save_location="page_sources",
 
     ):
     options = Options()
-     # Example argument; adjust according to your needs
-    # Add other options as needed
+
+
+    #options.add_argument("--headless")
+
 
     driver = webdriver.Chrome(options=options)
     all_nation_url = {
@@ -37,7 +39,7 @@ def run_scraping(save_location="page_sources",
     try:
         for key, url in all_nation_url.items(): 
             driver.get(url)
-            time.sleep(5)
+            time.sleep(2)
 
 
             print("Page Title:", driver.title)
