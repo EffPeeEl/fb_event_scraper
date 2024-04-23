@@ -3,3 +3,7 @@ category_prediction/Lib
 category_prediction/Scripts
 page_sources/
 __pycache__/
+cat_pred/Lib/
+cat_pred/Scripts/
+cat_pred/share/
+cat_pred/Include/
